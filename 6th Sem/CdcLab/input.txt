@@ -1,0 +1,5 @@
++ a b result1
+- c d result2
+* e f result3
+/ g h result4
+= i j result5
